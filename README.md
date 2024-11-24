@@ -1,11 +1,11 @@
-# CODTECH-Task1
+**Name** : SANJAY POTHURAJU  
+**Company**: CODTECH IT SOLUTIONS PVT.LTD  
+**Intern ID**: CT6WDS2147  
+**Domain**: ARTIFICIAL INTELLIGENCE  
+**Duration**: OCTOBER 10th, 2024 to NOVEMBER 25th, 2024  
+**Mentor**: [Mentor's Name]
 
-**Name** : SANJAY POTHURAJU
-**Company**: CODTECH IT SOLUTIONS PVT.LTD
-**Intern ID**: CT6WDS2147
-**Domain**: ARTIFICIAL INTELLIGENCE.
-**Duration**: OCTOBER 10th, 2024 to NOVEMBER 25th, 2024.
-**Mentor**: name
+# CODTECH-Task1
 
 ## Steps in Data Preprocessing
 
